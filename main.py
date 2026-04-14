@@ -1,2 +1,2 @@
-def greet(name)    # <-- пропущено двоеточие
+def greet(name):    # <-- пропущено двоеточие
     return f"Hello, {name}!"
